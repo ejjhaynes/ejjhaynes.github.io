@@ -3,6 +3,7 @@ layout: post
 title: Week Three
 published: true
 ---
+**What did you do this past week?**
 
 I finished Collatz (not on time, but still. Finished.), to end three days of 4 assignments and 5 readings. Last week was strangely busy all at once, but I made it through. I also finished a gift for a friend who's in town this weekend, which was more time-consuming than I expected it to be, so juggling all my busyness was an adventure, and it didn't always go well.
 
