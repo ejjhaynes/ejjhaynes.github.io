@@ -6,6 +6,7 @@ published: true
 **What did you do this past week?**
 
 ![managed](http://65.media.tumblr.com/9a38bb2d4d2691e2ac5ff9e88c7dc7c5/tumblr_nv1mvbSGSj1qglhc3o1_500.jpg)
+
 I wrote an essay, took an exam, didn't sleep much, and went out of town. I did catch up on my readings during my travels, though, so that's something. Travelling kept me from doing much group work, but last week also consisted of getting the group solidified and coming up with an idea.
 
 **What’s in your way?**
